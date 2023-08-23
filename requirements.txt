@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 numpy 
 matplotlib
 torch==2.0.1+cpu
